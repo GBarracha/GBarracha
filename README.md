@@ -40,4 +40,4 @@ When I am not coding or debugging, I am highly active outdoors. You will usually
 
 ---
 ## 📊 GitHub Stats
-![Gonçalo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GBarracha&show_icons=true&theme=radium&hide_border=true)
+[![Gonçalo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GBarracha&theme=radium&hide_border=true)](https://github.com/GBarracha)

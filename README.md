@@ -18,7 +18,7 @@ When I am not coding or debugging, I am highly active outdoors. You will usually
 * Working out at the gym
 
 ## 📫 Let's Connect
-* **LinkedIn:** [Click here to visit my profile](https://www.linkedin.com/in/your-profile-link)
+* **LinkedIn:** [Click here to visit my profile](https://www.linkedin.com/in/goncalo-barracha)
 * **Email:** gongas.barracha@gmail.com
 
 ## 📊 GitHub Stats

@@ -36,7 +36,7 @@ When I am not coding or debugging, I am highly active outdoors. You will usually
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goncalo-barracha)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gongas.barracha@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goncalojsbarracha@outlook.pt)
 
 ---
 ## 📊 GitHub Stats

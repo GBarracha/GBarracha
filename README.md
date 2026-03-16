@@ -7,7 +7,7 @@ Currently, I am looking to deepen my expertise in **Artificial Intelligence** an
 ## 🚀 Featured Projects
 Here are some of the most challenging and rewarding projects I have built:
 
-* 📱 **[HelloFarmer](https://github.com/GBarracha/NOME-DO-REPOSITORIO-FLUTTER)**: A full-featured Flutter & Firebase mobile app designed to connect local farmers directly with consumers. Features real-time geolocation, push notifications, and a light sensor dynamic UI.
+* 📱 **[HelloFarmer](https://github.com/GBarracha/farmlink-flutter)**: A full-featured Flutter & Firebase mobile app designed to connect local farmers directly with consumers. Features real-time geolocation, push notifications, and a light sensor dynamic UI.
 * 🌐 **[ESTSBike Management System](https://github.com/GBarracha/estsbike-web-app)**: A full-stack web application for a cycling club built with Node.js, Express, Vanilla JavaScript, and a MySQL relational database.
 * 🚦 **[Safe Citizens (C & Java)](https://github.com/GBarracha/safe-citizens-multithreading)**: An Operating Systems project solving a complex spatial routing problem. Showcases low-level C multiprocessing (Shared Memory, Semaphores) and Java multithreading combined with AI Beam Search algorithms.
 * 🚆 **[SIT-N-NEW (Java & JavaFX)](https://github.com/GBarracha/sit-transport-network)**: A desktop application modeling a public transport network using graph data structures. Features MVC architecture, the Command design pattern (for Undo), and Dijkstra's algorithm for multi-criteria routing.

@@ -1,52 +1,74 @@
-# Hi there, I'm Gonçalo! 👋
+<h1 align="center">Gonçalo Barracha</h1>
 
-I am a 22-year-old Computer Engineering student from Portugal. I recently transitioned from my academic GitHub to this professional account, bringing over my most complex and successful school projects to build my digital portfolio. 
+<p align="center">
+  Computer Engineering Student · AI & Cybersecurity Enthusiast · Portugal 🇵🇹
+</p>
 
-Currently, I am looking to deepen my expertise in **Artificial Intelligence** and **Cybersecurity**, building upon a strong foundation in software engineering, mobile development, and parallel computing.
-
-## 🚀 Featured Projects
-Here are some of the most challenging and rewarding projects I have built:
-
-* 📱 **[HelloFarmer](https://github.com/GBarracha/farmlink-flutter)**: A full-featured Flutter & Firebase mobile app designed to connect local farmers directly with consumers. Features real-time geolocation, push notifications, and a light sensor dynamic UI.
-* 🌐 **[ESTSBike Management System](https://github.com/GBarracha/estsbike-web-app)**: A full-stack web application for a cycling club built with Node.js, Express, Vanilla JavaScript, and a MySQL relational database.
-* 🚦 **[Safe Citizens (C & Java)](https://github.com/GBarracha/safe-citizens-multithreading)**: An Operating Systems project solving a complex spatial routing problem. Showcases low-level C multiprocessing (Shared Memory, Semaphores) and Java multithreading combined with AI Beam Search algorithms.
-* 🚆 **[SIT-N-NEW (Java & JavaFX)](https://github.com/GBarracha/sit-transport-network)**: A desktop application modeling a public transport network using graph data structures. Features MVC architecture, the Command design pattern (for Undo), and Dijkstra's algorithm for multi-criteria routing.
-
-## 🛠️ Tech Stack
-
-**Languages** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![CommonLisp](https://img.shields.io/badge/Common_Lisp-302B6D?style=for-the-badge)
-
-**Web Development** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/asp.net-%235C2D91.svg?style=for-the-badge&logo=dot-net&logoColor=white)
-
-**Mobile & Cross-Platform** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-**Databases** ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 🏄‍♂️ Beyond the Keyboard
-When I am not coding or debugging, I am highly active outdoors. You will usually find me:
-* Surfing the local waves 🌊
-* Hitting the trails for Mountain Biking (BTT) 🚵‍♂️
-* Running 🏃‍♂️
-* Working out at the gym 🏋️‍♂️
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goncalo-barracha)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:goncalojsbarracha@outlook.pt)
+<p align="center">
+  <a href="https://www.linkedin.com/in/goncalo-barracha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:goncalojsbarracha@outlook.pt">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+</p>
 
 ---
-## 📊 GitHub Stats
-[![Gonçalo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GBarracha&theme=radium&hide_border=true)](https://github.com/GBarracha)
+
+## About
+
+I am a final-year Computer Engineering student based in Portugal, passionate about building
+robust software across the full stack — from low-level systems programming to mobile and
+web applications. I am currently focused on deepening my expertise in **Artificial
+Intelligence** and **Cybersecurity**, with hands-on experience in parallel computing,
+algorithm design, and cross-platform development.
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 📱 [HelloFarmer](https://github.com/GBarracha/farmlink-flutter) | Mobile marketplace connecting local farmers to consumers, with real-time geolocation and push notifications | Flutter, Dart, Firebase |
+| 🌐 [ESTSBike Management System](https://github.com/GBarracha/estsbike-web-app) | Full-stack club management web application with relational data modeling | Node.js, Express, JavaScript, MySQL |
+| 🚦 [Safe Citizens](https://github.com/GBarracha/safe-citizens-multithreading) | Spatial routing engine combining low-level IPC (shared memory, semaphores) with an AI Beam Search algorithm | C, Java |
+| 🚆 [SIT-N-NEW](https://github.com/GBarracha/sit-transport-network) | Public transport network simulator using graph theory, MVC architecture, Command pattern, and Dijkstra's algorithm | Java, JavaFX |
+
+---
+
+## Tech Stack
+
+**Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Common Lisp](https://img.shields.io/badge/Common_Lisp-302B6D?style=flat-square)
+
+**Web & Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=dot-net&logoColor=white)
+
+**Mobile**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-00000f?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+## Currently Exploring
+
+- 🤖 Machine Learning and applied AI
+- 🔐 Cybersecurity fundamentals and ethical hacking
+- ☁️ Cloud infrastructure and DevOps practices
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GBarracha&theme=dark&hide_border=true)](https://github.com/GBarracha)
